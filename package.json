@@ -1,0 +1,14 @@
+{
+  "name": "yields-alef",
+  "description": "Alef is an open source bilingual web-font",
+  "version": "1.0.0",
+  "keywords": [
+    "font",
+    "alef"
+  ],
+  "styles": [
+    "alef.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
